@@ -1,0 +1,5 @@
+node_modules/
+index.html.broken
+*.log
+.DS_Store
+Thumbs.db
