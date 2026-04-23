@@ -1,6 +1,0 @@
-function test() {
-  const x = "hello";
-  return x + ' world';
-}
-// Comment with special chars: < > & " '
-let arr = [1, 2, 3];
